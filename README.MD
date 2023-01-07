@@ -63,9 +63,7 @@
 
 [tensorrt](https://developer.nvidia.com/tensorrt) 部署的时候优化推理
 
-
 [tensorrt 开始](https://developer.nvidia.com/tensorrt-getting-started)
-
 
 [tensorrt 文档](https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html)
 
@@ -88,9 +86,9 @@
 [deepstream-jetson安装](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Quickstart.html#jetson-setup)
 
 - 例子
+
 [github NVIDIA-AI-IOT](https://github.com/NVIDIA-AI-IOT)
 
 [deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps)
-
 
 [deep-learning](https://developer.nvidia.com/deep-learning)
